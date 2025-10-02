@@ -1,1 +1,6 @@
-
+=== My bruteforce a la API FastAPI ===
+Objetivo: http://127.0.0.1:8000/login
+Email: lily@gmail.com
+Longitud: 4 dígitos
+Total combinaciones: 10000
+Inicio: Thu Oct  2 12:51:33 -05 2025
